@@ -12,5 +12,6 @@
     </main>
     <?php include('includes/footer.php') ?>
     <script src="assets/js/script.js"></script>
+    <a href="shop.php">Vers les produits</a>
 </body>
 </html>
