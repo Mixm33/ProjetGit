@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <a href="shop.php">Vers les produits</a>
 </body>
 </html>
