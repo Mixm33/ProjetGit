@@ -7,6 +7,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/shopCSS.css">
 </head>
 <body>
+    <?php include('includes/header') ?>
     <h1>Produit</h1>
     <div>
         <img src="assets/img/highkick.jpg" id="picKick">
@@ -19,6 +20,6 @@
         <p>Un ********</p>
         <p>50 euros</p>
     </aside>
-
+    <?php include('includes/footer') ?>
 </body>
 </html>

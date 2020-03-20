@@ -8,10 +8,9 @@
 <body>
     <?php include('includes/header.php') ?>
     <main>
-
+        <a href="shop.php">Vers les produits</a>
     </main>
     <?php include('includes/footer.php') ?>
     <script src="assets/js/script.js"></script>
-    <a href="shop.php">Vers les produits</a>
 </body>
 </html>
